@@ -1,0 +1,14 @@
+E:\Repos for VS\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos for VS\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfoInputs.cache
+E:\Repos for VS\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.AssemblyInfo.cs
+E:\Repos for VS\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.csproj.CoreCompileInputs.cache
+E:\Repos for VS\PhoneBook\PhoneBook\bin\Debug\net8.0\PhoneBook.exe
+E:\Repos for VS\PhoneBook\PhoneBook\bin\Debug\net8.0\PhoneBook.deps.json
+E:\Repos for VS\PhoneBook\PhoneBook\bin\Debug\net8.0\PhoneBook.runtimeconfig.json
+E:\Repos for VS\PhoneBook\PhoneBook\bin\Debug\net8.0\PhoneBook.dll
+E:\Repos for VS\PhoneBook\PhoneBook\bin\Debug\net8.0\PhoneBook.pdb
+E:\Repos for VS\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.dll
+E:\Repos for VS\PhoneBook\PhoneBook\obj\Debug\net8.0\refint\PhoneBook.dll
+E:\Repos for VS\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.pdb
+E:\Repos for VS\PhoneBook\PhoneBook\obj\Debug\net8.0\PhoneBook.genruntimeconfig.cache
+E:\Repos for VS\PhoneBook\PhoneBook\obj\Debug\net8.0\ref\PhoneBook.dll
